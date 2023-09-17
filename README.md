@@ -53,3 +53,9 @@ On the "Remind Password" page, the "Message sent successfully" notification appe
 #### Overall opinion
 
 Main functionalities work, so the application is usable. However, it could be more intuitive and user friendly. Correcting types of date that can be put into forms would certanly improve the using the application.
+
+## TASK 2
+
+### Subtask 1
+Test cases based on User Stories - [link - Google Drive] (https://docs.google.com/spreadsheets/d/18KRhJNuf7G2CwXaZG6rypxzqSSqxzQfxxIP56fwFskw/edit#gid=0)
+
