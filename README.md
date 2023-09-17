@@ -59,4 +59,15 @@ Main functionalities work, so the application is usable. However, it could be mo
 ### Subtask 1
 Test cases based on User Stories - [Google Drive Document](https://docs.google.com/spreadsheets/d/18KRhJNuf7G2CwXaZG6rypxzqSSqxzQfxxIP56fwFskw/edit#gid=0)
 
+### Subtask 2
+Test cases - exploratory testing
+
+### Subtask 3
+
+Why is writing test cases important?
+
+The purpose of writing test cases is to document different functionalities in an application or module. After a series of tests is complete, test cases are used for creating test reports. A good test cases coverage ensures that all important functionalities were tested. Test cases are also a source for acceptance testing.
+
+
+
 
