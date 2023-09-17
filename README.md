@@ -33,7 +33,7 @@ The app interface is very simplistic, with minimal formatting. Some functionalit
 #### Bugs found in the application
 
 * Login Issues:
-Difficulty logging in using Mozilla Firefox and Google Chrome with valid usernames and passwords. (Solved in Chrome using incognito mode).
+Difficulty logging in using Mozilla Firefox and Google Chrome with valid usernames and passwords. (Correct login in Chrome using incognito mode).
 
 * Form Validation Issues:
 Input validation issues, such as allowing special characters in player names, future dates of birth, and accepting negative numbers as weight.
