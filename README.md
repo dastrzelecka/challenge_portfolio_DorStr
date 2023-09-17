@@ -57,5 +57,6 @@ Main functionalities work, so the application is usable. However, it could be mo
 ## TASK 2
 
 ### Subtask 1
-Test cases based on User Stories - [link - Google Drive] (https://docs.google.com/spreadsheets/d/18KRhJNuf7G2CwXaZG6rypxzqSSqxzQfxxIP56fwFskw/edit#gid=0)
+Test cases based on User Stories - [link - Google Drive](https://docs.google.com/spreadsheets/d/18KRhJNuf7G2CwXaZG6rypxzqSSqxzQfxxIP56fwFskw/edit#gid=0)
+
 
