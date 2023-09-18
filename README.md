@@ -60,7 +60,7 @@ Main functionalities work, so the application is usable. However, it could be mo
 Test cases based on User Stories - [Google Drive Document](https://docs.google.com/spreadsheets/d/18KRhJNuf7G2CwXaZG6rypxzqSSqxzQfxxIP56fwFskw/edit#gid=0)
 
 ### Subtask 2
-Test cases - exploratory testing
+Test cases - exploratory testing[Google Drive Document](https://docs.google.com/spreadsheets/d/1zPPDsfIzF4ZiUUsAtWzGJgTkTW75ugP_xaIP0v2w1a0/edit#gid=0)
 
 ### Subtask 3
 
