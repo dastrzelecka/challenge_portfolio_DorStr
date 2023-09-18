@@ -1,6 +1,9 @@
 # challenge_portfolio_DorStr
 
-This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym".
+This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". 
+
+Table of contents
+* [Task 1](#task-1)
 
 ## TASK 1
 ### Subtask 1
