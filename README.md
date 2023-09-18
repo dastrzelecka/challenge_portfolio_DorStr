@@ -2,7 +2,7 @@
 
 This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". 
 
-Table of contents
+Table of contents:
 * [Task 1](#task-1)
 * [Task 2](#task-2) - creating test cases
 
