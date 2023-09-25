@@ -75,6 +75,9 @@ The purpose of writing test cases is to document different functionalities in an
 
 
 ## TASK 3
-### Subtask 1
+### Subtask 2
 Bug reports - [Google Drive Document](https://docs.google.com/spreadsheets/d/1FaXpOwPhmqCUNZjDiu7S9E8Cl5EN8CxWqXOU3nAvnes/edit?usp=drive_link)
+
+### Subtask 3 
+Test report - [Google Drive Document](https://docs.google.com/document/d/1A4OZUM8-a3qJvJtBDRqSAUafLeQQ8cy-hpkIjiHffUY/edit?usp=drive_link)
 
