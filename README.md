@@ -73,5 +73,7 @@ Why is writing test cases important?
 The purpose of writing test cases is to document different functionalities in an application or module. After a series of tests is complete, test cases are used for creating test reports. A good test cases coverage ensures that all important functionalities were tested. Test cases are also a source for acceptance testing.
 
 
-
+## TASK 3
+### Subtask 1
+Bug reports - [Google Drive Document](https://docs.google.com/spreadsheets/d/1FaXpOwPhmqCUNZjDiu7S9E8Cl5EN8CxWqXOU3nAvnes/edit?usp=drive_link)
 
