@@ -5,6 +5,7 @@ This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym"
 Table of contents:
 * [Task 1](#task-1)
 * [Task 2](#task-2) - creating test cases
+* [Task 3](3task-3) - writing bug reports
 
 ## TASK 1
 ### Subtask 1
