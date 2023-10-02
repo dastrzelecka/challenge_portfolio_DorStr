@@ -46,27 +46,27 @@ The app interface is very simplistic, with minimal formatting. Some functionalit
 
 #### Bugs found in the application
 
-* :x:<b>Login Issues:</b>
+ :x:<b>Login Issues:</b>
   
 Difficulty logging in using Mozilla Firefox and Google Chrome with valid usernames and passwords. (Correct login in Chrome using incognito mode).
 
-* :x:<b>Form Validation Issues:</b>
+ :x:<b>Form Validation Issues:</b>
   
 Input validation issues, such as allowing special characters in player names, future dates of birth, and accepting negative numbers as weight.
 
-* :x:<b>"Edit Player" Page:</b>
+ :x:<b>"Edit Player" Page:</b>
   
 The "Submit" button in the "Edit Player" page can sometimes undo successfully submitted changes.
 
-* :x:<b>Language Display Issue:</b>
+ :x:<b>Language Display Issue:</b>
   
 The "Submit" and "Clear" buttons in the "Edit Player" page continue to display in English after changing the language to Polish.
 
-* :x:<b>Autofill Attribute Missing:</b>
+ :x:<b>Autofill Attribute Missing:</b>
 
 The "e-mail," "name," and "surname" forms lack the autocomplete attribute, which can affect browser autofill functionality.
 
- * :x:<b>"Remind Password" Page:</b>
+  :x:<b>"Remind Password" Page:</b>
  
 On the "Remind Password" page, the "Message sent successfully" notification appears even without entering any characters in the "e-mail" form.
 
