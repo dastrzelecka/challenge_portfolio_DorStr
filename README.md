@@ -2,6 +2,15 @@
 
 This is a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
 
+### What have I learned during the challenge?
+
+<p align="justify">:heavy_check_mark: testing web applications :heavy_check_mark: testing mobile applications :heavy_check_mark: exploratory testing
+
+:heavy_check_mark: writing test cases :heavy_check_mark: using DevTools for testing :heavy_check_mark: reporting bugs 
+
+:heavy_check_mark: creating a test report</p>
+
+
 ## Table of contents:
 
  :heavy_check_mark: [Task 1](#task-1) - introduction </br>
@@ -14,6 +23,7 @@ This is a portfolio created during Dare IT Challenge - "Zostań testerem manualn
 My test score: 8/10
 ### Subtask 3
 My name is Dorota. I passed the ISTQB Foundation Level exam in June. I would like to broaden my knowledge and gain a more practical approach to testing. I joined this project to build a complete portfolio and become capable of working in my dream job!
+
 ### Subtask 4
 
 #### General purpose
