@@ -1,6 +1,6 @@
 # challenge_portfolio_DorStr
 
-This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
+This is a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
 
 ## Table of contents:
 
@@ -64,10 +64,10 @@ Main functionalities work, so the application is usable. However, it could be mo
 ## TASK 2
 
 ### Subtask 1
-Test cases based on User Stories - [Google Drive Document](https://docs.google.com/spreadsheets/d/18KRhJNuf7G2CwXaZG6rypxzqSSqxzQfxxIP56fwFskw/edit#gid=0)
+Test cases based on User Stories :point_right: [Google Drive Document](https://docs.google.com/spreadsheets/d/18KRhJNuf7G2CwXaZG6rypxzqSSqxzQfxxIP56fwFskw/edit#gid=0)
 
 ### Subtask 2
-Test cases - exploratory testing - [Google Drive Document](https://docs.google.com/spreadsheets/d/1zPPDsfIzF4ZiUUsAtWzGJgTkTW75ugP_xaIP0v2w1a0/edit#gid=0)
+Test cases - exploratory testing :point_right: [Google Drive Document](https://docs.google.com/spreadsheets/d/1zPPDsfIzF4ZiUUsAtWzGJgTkTW75ugP_xaIP0v2w1a0/edit#gid=0)
 
 ### Subtask 3
 
@@ -78,10 +78,10 @@ The purpose of writing test cases is to document different functionalities in an
 
 ## TASK 3
 ### Subtask 2
-Bug reports - [Google Drive Document](https://docs.google.com/spreadsheets/d/1FaXpOwPhmqCUNZjDiu7S9E8Cl5EN8CxWqXOU3nAvnes/edit?usp=drive_link)
+Bug reports :point_right: [Google Drive Document](https://docs.google.com/spreadsheets/d/1FaXpOwPhmqCUNZjDiu7S9E8Cl5EN8CxWqXOU3nAvnes/edit?usp=drive_link)
 
 ### Subtask 3 
-Test report - [Google Drive Document](https://docs.google.com/document/d/1A4OZUM8-a3qJvJtBDRqSAUafLeQQ8cy-hpkIjiHffUY/edit?usp=drive_link)
+Test report :point_right: [Google Drive Document](https://docs.google.com/document/d/1A4OZUM8-a3qJvJtBDRqSAUafLeQQ8cy-hpkIjiHffUY/edit?usp=drive_link)
 
 ## TASK 4
 ### Subtask 1
