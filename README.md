@@ -2,7 +2,7 @@
 
 This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
 
-### Table of contents: </br> </br>
+## Table of contents: </br> </br>
 
  :heavy_check_mark: [Task 1](#task-1) - introduction </br>
  :heavy_check_mark: [Task 2](#task-2) - creating test cases </br>
