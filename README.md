@@ -2,11 +2,11 @@
 
 This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
 
-Table of contents:
+Table of contents: </br>
  :heavy_check_mark: [Task 1](#task-1) - introduction </br>
- :heavy_check_mark: [Task 2](#task-2) - creating test cases
- :heavy_check_mark: [Task 3](#task-3) - writing bug reports
- :heavy_check_mark: [Task 4](#task-4) - mobile app testing
+ :heavy_check_mark: [Task 2](#task-2) - creating test cases</br>
+ :heavy_check_mark: [Task 3](#task-3) - writing bug reports</br>
+ :heavy_check_mark: [Task 4](#task-4) - mobile app testing</br>
 
 ## TASK 1
 ### Subtask 1
