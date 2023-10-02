@@ -2,11 +2,7 @@
 
 This is a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
 
-<p align="justify"> :heavy_check_mark: exploratory testing
-
-:heavy_check_mark: writing test cases :heavy_check_mark: using DevTools for testing :heavy_check_mark: reporting bugs 
-
-:heavy_check_mark: creating a test report :heavy_check_mark: testing web applications :heavy_check_mark: testing mobile applications </p>
+<p align="justify"> :heavy_check_mark: exploratory testing :heavy_check_mark: writing test cases :heavy_check_mark: using DevTools for testing :heavy_check_mark: reporting bugs :heavy_check_mark: creating a test report :heavy_check_mark: testing web applications :heavy_check_mark: testing mobile applications </p>
 
 
 ## Table of contents:
