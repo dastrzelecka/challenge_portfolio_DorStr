@@ -2,7 +2,7 @@
 
 This is a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
 
-<p align="center"> :purple_circle: exploratory testing :purple_circle: writing test cases :purple_circle: using DevTools for testing :purple_circle: reporting bugs :purple_circle: creating a test report :purple_circle: testing web applications :purple_circle: testing mobile applications </p>
+<p align="center"> :purple_circle: exploratory testing :purple_circle: writing test cases :purple_circle: reporting bugs :purple_circle: creating a test report :purple_circle: testing web applications :purple_circle: testing mobile applications :purple_circle: using DevTools for testing  </p>
 
 
 ## Table of contents:
