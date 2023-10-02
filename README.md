@@ -1,11 +1,12 @@
 # challenge_portfolio_DorStr
 
-This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". 
+This a portfolio created during Dare IT Challenge - "Zostań testerem manualnym". Throughout the seven-week challenge, I am revisiting the knowledge I have gained in the field of ISTQB and acquiring the practical skills necessary for a tester's job. 
 
 Table of contents:
-* [Task 1](#task-1) - introduction
-* [Task 2](#task-2) - creating test cases
-* [Task 3](#task-3) - writing bug reports
+* :heavy_check_mark: [Task 1](#task-1) - introduction
+* :heavy_check_mark: [Task 2](#task-2) - creating test cases
+* :heavy_check_mark: [Task 3](#task-3) - writing bug reports
+* :heavy_check_mark: [Task 4](#task-4) - mobile app testing
 
 ## TASK 1
 ### Subtask 1
@@ -80,4 +81,7 @@ Bug reports - [Google Drive Document](https://docs.google.com/spreadsheets/d/1Fa
 
 ### Subtask 3 
 Test report - [Google Drive Document](https://docs.google.com/document/d/1A4OZUM8-a3qJvJtBDRqSAUafLeQQ8cy-hpkIjiHffUY/edit?usp=drive_link)
+
+## TASK 4
+### Subtask 1
 
