@@ -24,7 +24,7 @@ My name is Dorota. <b>I passed the ISTQB Foundation Level exam in June 2023</b>.
 
 #### General purpose
 
-:point_right: [Scouts Panel](https://scouts.futbolkolektyw.pl/) is an application for football scouts to track players, games and their statistics. It enables adding new players and games and generating reports after logging in.
+:point_right: <B>[Scouts Panel](https://scouts.futbolkolektyw.pl/)</b> is an application for football scouts to track players, games and their statistics. It enables adding new players and games and generating reports after logging in.
 
 #### Functionalities
 
