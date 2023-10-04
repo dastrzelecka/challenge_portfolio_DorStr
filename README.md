@@ -103,8 +103,7 @@ Bug reports on a mobile application :point_right: [Google Drive Document](https:
 About the tested application :point_right: [OLX.pl](https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US)
 
 :question: **What is the purpose of this application? What is the goal of this application?** :question:
-
-    ```OLX is an application designed for selling or giving away items you no longer need. It serves as a digital platform for both local and national advertisements. You can buy or sell various items, including clothing, technology, automobiles, and real estate. The service also allows users to search for specialist services, job advertisements, and recently, to create candidate profiles, resumes, and apply for job offers directly through the application.```
+OLX is an application designed for selling or giving away items you no longer need. It serves as a digital platform for both local and national advertisements. You can buy or sell various items, including clothing, technology, automobiles, and real estate. The service also allows users to search for specialist services, job advertisements, and recently, to create candidate profiles, resumes, and apply for job offers directly through the application.
 
   :question: **Who is the intended end-user of the application?**:question:
 
