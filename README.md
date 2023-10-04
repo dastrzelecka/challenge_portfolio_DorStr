@@ -104,21 +104,21 @@ About the tested application :point_right: [OLX.pl](https://play.google.com/stor
 
 :question: **What is the purpose of this application? What is the goal of this application?** :question:
 
-    OLX is an application designed for selling or giving away items you no longer need. It serves as a digital platform for both local and national advertisements. You can buy or sell various items, including clothing, technology, automobiles, and real estate. The service also allows users to search for specialist services, job advertisements, and recently, to create candidate profiles, resumes, and apply for job offers directly through the application.
+    ```OLX is an application designed for selling or giving away items you no longer need. It serves as a digital platform for both local and national advertisements. You can buy or sell various items, including clothing, technology, automobiles, and real estate. The service also allows users to search for specialist services, job advertisements, and recently, to create candidate profiles, resumes, and apply for job offers directly through the application.```
 
-  :question: Who is the intended end-user of the application?  :question:
+  :question: **Who is the intended end-user of the application?**:question:
 
     Anyone who wants to sell, exchange, give away, or purchase items can use this application. Additionally, companies are also permitted to place advertisements.
 
-  :question: **   Do you think the application is user-friendly? ** :question:
+  :question: **Do you think the application is user-friendly?** :question:
 
     I believe it is quite user-friendly. I have encountered some issues when using the web application on a mobile device, but the mobile app functions smoothly.
 
-  :question: **   How would you improve the application? What would you change in it? Do you have any ideas for additional functionality? ** :question:
+  :question: **How would you improve the application? What would you change in it? Do you have any ideas for additional functionality?** :question:
 
     There should be some form of screening for job offers before they are added to the platform. Many of the offers turn out to be dubious, such as pyramid schemes or attempts to collect personal data from job seekers.
 
- :question: **    What differences do you see between testing a web application and a native application? ** :question:
+ :question: **What differences do you see between testing a web application and a native application?** :question:
 
         Native applications often run faster and smoother than web applications because they are optimized for specific devices and operating systems. Testing performance and speed is a critical aspect of native app testing.
 
