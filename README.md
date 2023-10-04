@@ -106,7 +106,7 @@ About the tested application :point_right: [OLX.pl](https://play.google.com/stor
 
     OLX is an application designed for selling or giving away items you no longer need. It serves as a digital platform for both local and national advertisements. You can buy or sell various items, including clothing, technology, automobiles, and real estate. The service also allows users to search for specialist services, job advertisements, and recently, to create candidate profiles, resumes, and apply for job offers directly through the application.
 
-  :question: **   Who is the intended end-user of the application? ** :question:
+  :question: Who is the intended end-user of the application?  :question:
 
     Anyone who wants to sell, exchange, give away, or purchase items can use this application. Additionally, companies are also permitted to place advertisements.
 
