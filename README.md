@@ -96,5 +96,9 @@ Bug reports :point_right: [Google Drive Document](https://docs.google.com/spread
 Test report :point_right: [Google Drive Document](https://docs.google.com/document/d/1A4OZUM8-a3qJvJtBDRqSAUafLeQQ8cy-hpkIjiHffUY/edit?usp=drive_link)
 
 ## TASK 4
-### Subtask 1
+### Subtask 2
+Bug reports on a mobile application :point_right: [Google Drive Document](https://docs.google.com/spreadsheets/d/1gc6FQlA2MsqbtwLY6J1yqYB7npXbWyJaQSKdPJHPPV0/edit#gid=643102757)
+
+### Subtask 3
+About the tested application :point_right: [OLX.pl](https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US)
 
