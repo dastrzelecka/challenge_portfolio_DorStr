@@ -4,7 +4,7 @@ This is a portfolio created during ongoing Dare IT Challenge - "Zostań testerem
 
 ## Skills gained:
 
-<p align="center"> :purple_circle: exploratory testing :purple_circle: writing test cases :purple_circle: reporting bugs :purple_circle: creating a test report </br> :purple_circle: testing web applications :purple_circle: testing mobile applications :purple_circle: using DevTools for testing  </p>
+<p align="center"> :purple_circle: exploratory testing :purple_circle: writing test cases :purple_circle: reporting bugs :purple_circle: creating a test report </br> :purple_circle: testing web applications :purple_circle: testing mobile applications :purple_circle: using DevTools for testing :purple_circle: using SQL </p>
 
 
 ## Table of contents:
