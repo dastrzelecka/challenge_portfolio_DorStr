@@ -144,21 +144,56 @@ Basics of SQL
 
 2. Wyświetl film, który powstał w 2019 roku.
 
-4. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+SELECT * FROM movies WHERE year_of_production = 2019;
 
-5. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+![SQL2](SQL2.png)
 
-6. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
-7. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+SELECT * FROM movies WHERE year_of_production BETWEEN 1900 AND 1999;
 
-8. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+![SQL3](SQL3.png)
 
-9. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
-10. Wyświetl dane klienta, który nie ma podanego adresu email.
+SELECT * FROM `movies` WHERE price < 7;
 
-11. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+![SQL4](SQL4.png)
 
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+SELECT * FROM actors WHERE actor_id >= 4 AND actor_id <=7;
+
+![SQL5](SQL5.png)
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+SELECT * FROM `customers` WHERE (customer_id % 2) = 0;
+
+![SQL6](SQL6.png)
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+SELECT * FROM `customers` WHERE customer_id IN (1,3,5);
+
+![SQL7](SQL7.png)
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+SELECT * FROM `actors` WHERE name LIKE 'An%';
+
+![SQL8](SQL8.png)
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+SELECT * FROM `customers` WHERE email IS NULL;
+
+![SQL9](SQL9.png
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+SELECT * FROM `movies` WHERE price > 9 AND movie_id BETWEEN 2 AND 8;
+
+![SQL10](SQL10.png)
 
 
