@@ -13,7 +13,7 @@ This is a portfolio created during ongoing Dare IT Challenge - "Zostań testerem
  :heavy_check_mark: [Task 2](#task-2) - creating test cases </br>
  :heavy_check_mark: [Task 3](#task-3) - writing bug reports </br>
  :heavy_check_mark: [Task 4](#task-4) - mobile app testing </br>
- :heavy_check_mark: [Task 5](#task-5) - mobile app testing </br>
+ :heavy_check_mark: [Task 5](#task-5) - introduction to SQL </br>
 
 ## TASK 1
 ### Subtask 1
