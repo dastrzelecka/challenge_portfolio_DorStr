@@ -142,7 +142,7 @@ Basics of SQL
  
  ![SQL1](SQL1.png)
 
-3. Wyświetl film, który powstał w 2019 roku.
+2. Wyświetl film, który powstał w 2019 roku.
 
 4. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
