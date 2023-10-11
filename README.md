@@ -139,6 +139,7 @@ Basics of SQL
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
  SELECT * FROM actors ORDER BY surname;
+ 
  ![SQL1](SQL1.png)
 
 3. Wyświetl film, który powstał w 2019 roku.
