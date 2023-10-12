@@ -172,6 +172,10 @@ SELECT * FROM `actors` WHERE actor_id >= 4 AND actor_id <=7;
 
 #### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
+SELECT * FROM `customers` WHERE customer_id = 2 OR  customer_id = 4  customer_id = 6;
+
+lub z użyciem modulo:
+
 SELECT * FROM `customers` WHERE (customer_id % 2) = 0;
 
 ![SQL6](SQL6.png)
