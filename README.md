@@ -134,8 +134,11 @@ There should be some form of screening for job offers before they are added to t
  - Managing app updates can be more complex for native apps as users must manually download and install updates. This can affect how quickly new features and fixes are available to users.
 
 ## TASK 5
+
+### Subtask 1
+Basics of SQL - learned COMMANDS: SELECT, WHERE, ORDER BY, LIKE, IN, IS NULL, AND, OR, BETWEEN
+
 ### Subtask 3
-Basics of SQL
 
 #### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
