@@ -290,6 +290,8 @@ INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, 
 
 ![SQL20](SQL20.png)
 
+### Subtask 2 - Test
 
+My score: 14/15 👍
 
 
