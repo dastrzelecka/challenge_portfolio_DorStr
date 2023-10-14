@@ -258,22 +258,37 @@ SELECT DISTINCT movies.title, movies.movie_id FROM movies JOIN sale ON movies.mo
 
 ![SQL16](SQL16.png)
 
-#### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+#### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcję UNION)
 
+SELECT actors.name, actors.surname FROM actors UNION SELECT customers.name, customers.surname FROM customers ORDER BY name;
 
 ![SQL17](SQL17.png)
 
+#### 18. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $
+
+SELECT * FROM movies WHERE year_of_production > 2000;
+
+![SQL18_1](SQL18_1.png)
+
+UPDATE movies SET price = price + 2.5 WHERE year_of_production > 2000;
+
+![SQL18_2](SQL18_2.png)
+
+#### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+SELECT actors.name, actors.surname, movies.title
+FROM ((cast 
+       JOIN movies ON movies.movie_id = cast.movie_id)
+      JOIN actors ON actors.actor_id = cast.actor_id) WHERE actors.actor_id = 4;
+
+![SQL19](SQL19.png)
+
+#### 20. Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 
 
-![SQL11](SQL11.png)
-
-
-
-![SQL11](SQL11.png)
-
-
-
-![SQL11](SQL11.png)
+![SQL20](SQL20.png)
 
 
 
