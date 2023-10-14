@@ -13,7 +13,8 @@ This is a portfolio created during ongoing Dare IT Challenge - "Zostań testerem
  :heavy_check_mark: [Task 2](#task-2) - creating test cases </br>
  :heavy_check_mark: [Task 3](#task-3) - writing bug reports </br>
  :heavy_check_mark: [Task 4](#task-4) - mobile app testing </br>
- :heavy_check_mark: [Task 5](#task-5) - introduction to SQL </br>
+ :heavy_check_mark: [Task 5](#task-5) - introduction to SQL part 1 </br>
+ :heavy_check_mark: [Task 6](#task-5) - introduction to SQL part 2 </br>
 
 ## TASK 1
 ### Subtask 1
@@ -134,7 +135,6 @@ There should be some form of screening for job offers before they are added to t
  - Managing app updates can be more complex for native apps as users must manually download and install updates. This can affect how quickly new features and fixes are available to users.
 
 ## TASK 5
-
 ### Subtask 1
 Basics of SQL - learned COMMANDS: SELECT, WHERE, ORDER BY, LIKE, IN, IS NULL, AND, OR, BETWEEN
 
@@ -203,5 +203,78 @@ SELECT * FROM `customers` WHERE email IS NULL;
 SELECT * FROM `movies` WHERE price > 9 AND movie_id BETWEEN 2 AND 8;
 
 ![SQL10](SQL10.png)
+
+## TASK 6
+### Subtask 1
+
+SQL part 2
+
+#### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
+UPDATE customers SET surname = 'Miler' where surname = 'Muler';
+
+![SQL11](SQL11.png)
+
+#### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. 
+
+SELECT customers.name, customers.email 
+FROM customers 
+JOIN sale ON 
+customers.customer_id = sale.customer_id 
+WHERE movie_id = 4;
+
+![SQL12](SQL12.png)
+
+#### 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+UPDATE customers SET email = 'pati@mail.com' WHERE email IS NULL;
+
+![SQL13](SQL13.png)
+
+#### 14. Dla każdego zakupu wyświetl imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+SELECT customers.name, customers.surname, movies.title
+FROM ((customers INNER JOIN sale ON customers.customer_id = sale.customer_id)
+INNER JOIN movies ON sale.movie_id = movies.movie_id);
+
+![SQL14](SQL14.png)
+
+#### 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. 
+- Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,
+
+  ALTER TABLE customers ADD pseudonym text;
+
+  ![SQL15_1](SQL15_1.png)
+  
+- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+UPDATE customers SET pseudonym = CONCAT(LEFT(name, 2), RIGHT(surname,1));
+
+![SQL15_2](SQL15_2.png)
+
+#### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+SELECT DISTINCT movies.title, movies.movie_id FROM movies JOIN sale ON movies.movie_id = sale.movie_id;
+
+![SQL16](SQL16.png)
+
+#### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+
+![SQL17](SQL17.png)
+
+
+
+![SQL11](SQL11.png)
+
+
+
+![SQL11](SQL11.png)
+
+
+
+![SQL11](SQL11.png)
+
+
 
 
